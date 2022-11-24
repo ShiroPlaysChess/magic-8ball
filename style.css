@@ -1,0 +1,12 @@
+body {
+        background: rgba(255, 255, 255, 0.7);
+        width: 600px;
+        padding: 25px 100px;
+        margin: 25px auto;
+        text-align: center;
+        border-radius: 25px;
+} 
+html {
+    background: url("img/milky-way-2695569__480.jpg") no-repeat fixed center;
+    background-size: cover;
+  }
